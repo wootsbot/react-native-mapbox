@@ -10,8 +10,7 @@ import {SafeAreaView, StatusBar, StyleSheet, View} from 'react-native';
 
 import Mapbox from '@rnmapbox/maps';
 
-const MAPBOX_ACCESS_TOKEN =
-  'sk.eyJ1Ijoid29vdHNib3QiLCJhIjoiY2xobTg0aG94MTkxZjNtcW9iamdxdTZmNyJ9.X6QPrEf2_x6NHPxnsHjPlA';
+const MAPBOX_ACCESS_TOKEN = '';
 
 Mapbox.setAccessToken(MAPBOX_ACCESS_TOKEN);
 
